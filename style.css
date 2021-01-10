@@ -1,0 +1,59 @@
+body,
+ul,
+li,
+ol {
+    margin: 0px;
+    padding: 0px;
+    font-family: aharoni;
+}
+
+body {
+    background-color: #eee;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+.amader-gall {
+    width: 80%;
+    margin: auto;
+}
+
+.menu {
+    background-color: pink;
+}
+
+.menu ul {
+    text-align: center;
+}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li a {
+    display: block;
+    padding: 10px 20px;
+}
+
+.gall-box {
+    width: 23%;
+    border: 1px solid black;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+    color: white;
+    background-color: green;
+}
+
+.amader-gall .mix {
+    display: none;
+}
